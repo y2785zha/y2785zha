@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jason Zhang.
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, VR and AR.
 - 🌱 I’m currently studying Computer Science at the University of Waterloo. I'm entering my 4B term in Spring 2023.
-- 💞️ I’m looking for my 5rd Coop position for Fall 2022 (September - December).
+- 💞️ I’m looking for fulltime position for 2023.
 - 📫 How to reach me: Email -> y2785zha@uwaterloo.ca 
                       My LinkedIn Page -> https://www.linkedin.com/in/yilin-zhang-1534501a4/
 
